@@ -12,7 +12,7 @@ Engineering team competing on Kaggle, an open platform for data science challeng
 
 
 
-# Active Study/Focus Groups
+# Active Study Groups
 
 ## Neuro-inspired Artificial General Intelligence
 #### Slack channel: study-neuro-agi
