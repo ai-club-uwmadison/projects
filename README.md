@@ -5,7 +5,7 @@ Engineering team applying multivariate time-series and markov-based modeling app
 
 **Slack channel:** engr-stocks  
 **Group Leader:** Chris Endemann  
-**Contact:** @Chris Endemann (endemann@wisc.edu)  
+**Contact:** @Chris Endemann (Slack), endemann@wisc.edu
 
 ## Kaggle Team
 Engineering team competing on Kaggle, an open platform for data science challenges. Workshops are held every weekend. Anyone who would like to challenge and improve their skills in real-world data science problems are welcomed to join us!
@@ -34,5 +34,5 @@ Experience with deep learning, reinforcement learning, and/or neuroscience is re
 
 **Slack channel:** study-neuro-agi  
 **Group Leader:** Chris Endemann  
-**Contact:** @Chris Endemann (endemann@wisc.edu)    
+**Contact:** @Chris Endemann (Slack), endemann@wisc.edu
 
