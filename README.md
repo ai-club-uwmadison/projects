@@ -30,7 +30,7 @@ A few concrete subtopics we’d like to touch on throughout the semester(s)…
 - What key components are lacking from AI these days that prevent us from achieving AGI (e.g. how is the brain different from a DQN algorithm)?
 
 #### Prerequisites
-Experience with deep learning, reinforcement learning, and/or neuroscience is recommended. Alternatively, for a brief introduction to the field, students can consider working through this computatioanl neuroscience coursera [course](https://www.coursera.org/learn/computational-neuroscience#syllabus).
+Experience with deep learning, reinforcement learning, and/or neuroscience is recommended. Alternatively, for a brief introduction to the field, students can consider working through this computational neuroscience coursera [course](https://www.coursera.org/learn/computational-neuroscience#syllabus).
 
 **Slack channel:** study-neuro-agi  
 **Group Leader:** Chris Endemann  
