@@ -32,7 +32,7 @@ A few concrete subtopics we’d like to touch on throughout the semester(s)…
 #### Prerequisites
 Experience with deep learning, reinforcement learning, and/or neuroscience is recommended. Alternatively, for a brief introduction to the field, students can consider working through this computatioanl neuroscience coursera [course](https://www.coursera.org/learn/computational-neuroscience#syllabus) for a brief introduction into some of the concepts we will discuss.
 
-**Slack channel:** study-neuro-agi 
-**Group Leader:** Chris Endemann
-**Contact:** @Chris Endemann (endemann@wisc.edu)  
+**Slack channel:** study-neuro-agi  
+**Group Leader:** Chris Endemann  
+**Contact:** @Chris Endemann (endemann@wisc.edu)    
 
