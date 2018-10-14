@@ -14,7 +14,7 @@ Engineering team competing on Kaggle, an open platform for data science challeng
 
 # Active Study Groups
 
-## Neuro-inspired Artificial General Intelligence
+## Neuro-Inspired Artificial General Intelligence
 #### Slack channel: study-neuro-agi
 #### Group Leader: Chris Endemann (endemann@wisc.edu, @Chris Endemann)
 The most exciting advancements in A.I. have been consistently inspired by biology. Therefore, it’s not too crazy to suggest that studying the brain might be the best hope we have of constraining new algorithms that come closer to approaching artificial general intelligence. To follow this premise, this study group's intent is to discuss the intersections between the fields of cognitive science, computational neuroscience, and artificial intelligence, as well as discuss what it means to achieve artificial general intelligence. We will primarily focus our learning materials on research papers, and are always looking for additional members willing to present papers throughout the semester (we are willing to suggest some options).
