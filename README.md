@@ -1,4 +1,4 @@
-## Active Engineering Teams
+# Active Engineering Teams
 
 ### Algorithmic Trading Team
 #### Slack channel: engr-stocks
@@ -12,7 +12,7 @@ Engineering team competing on Kaggle, an open platform for data science challeng
 
 
 
-## Active Study/Focus Groups
+# Active Study/Focus Groups
 
 ### Neuro-inspired Artificial General Intelligence
 #### Slack channel: study-neuro-agi
