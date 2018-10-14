@@ -1,14 +1,16 @@
 # Active Engineering Teams
 
 ## Algorithmic Trading Team
-#### Slack channel: engr-stocks
-#### Group Leader: Chris Endemann (endemann@wisc.edu, @Chris Endemann)
 Engineering team applying multivariate time-series and markov-based modeling approaches to predict stock market trends. Anyone who wants to learn more about and apply these models (including deep learning and reinforcement learning implementations) is welcome to join so long as they have some background coding experience. The Slack channel for this team will soon be made private, so message the team leader--Chris Endemann--on Slack to request to join the team!
 
+**Slack channel:** engr-stocks
+**Group Leader:** Chris Endemann
+**Contact:** @Chris Endemann (endemann@wisc.edu)
+
 ## Kaggle Team
-#### Slack channel: engr-team-kaggle
-#### Group Leader: Zhichun Huang
 Engineering team competing on Kaggle, an open platform for data science challenges. Workshops are held every weekend. Anyone who would like to challenge and improve their skills in real-world data science problems are welcomed to join us!
+
+**Slack channel:** engr-team-kaggle; **Group Leader:** Zhichun Huang; **Contact:** 
 
 
 
