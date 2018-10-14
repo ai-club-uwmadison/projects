@@ -1,11 +1,11 @@
 # Active Engineering Teams
 
-### Algorithmic Trading Team
+## Algorithmic Trading Team
 #### Slack channel: engr-stocks
 #### Group Leader: Chris Endemann (endemann@wisc.edu, @Chris Endemann)
 Engineering team applying multivariate time-series and markov-based modeling approaches to predict stock market trends. Anyone who wants to learn more about and apply these models (including deep learning and reinforcement learning implementations) is welcome to join so long as they have some background coding experience. The Slack channel for this team will soon be made private, so message the team leader--Chris Endemann--on Slack to request to join the team!
 
-### Kaggle Team
+## Kaggle Team
 #### Slack channel: engr-team-kaggle
 #### Group Leader: Zhichun Huang
 Engineering team competing on Kaggle, an open platform for data science challenges. Workshops are held every weekend. Anyone who would like to challenge and improve their skills in real-world data science problems are welcomed to join us!
@@ -14,7 +14,7 @@ Engineering team competing on Kaggle, an open platform for data science challeng
 
 # Active Study/Focus Groups
 
-### Neuro-inspired Artificial General Intelligence
+## Neuro-inspired Artificial General Intelligence
 #### Slack channel: study-neuro-agi
 #### Group Leader: Chris Endemann (endemann@wisc.edu, @Chris Endemann)
 The most exciting advancements in A.I. have been consistently inspired by biology. Therefore, it’s not too crazy to suggest that studying the brain might be the best hope we have of constraining new algorithms that come closer to approaching artificial general intelligence. To follow this premise, this study group's intent is to discuss the intersections between the fields of cognitive science, computational neuroscience, and artificial intelligence, as well as discuss what it means to achieve artificial general intelligence. We will primarily focus our learning materials on research papers, and are always looking for additional members willing to present papers throughout the semester (we are willing to suggest some options).
