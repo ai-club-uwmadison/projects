@@ -1,6 +1,6 @@
 ## Active Engineering Teams
 
-### Algorithmic Trading Team (engr-stocks on slack)
+### Algorithmic Trading Team: ##### engr-stocks on slack
 #### Group Leader - Chris Endemann (endemann@wisc.edu)
 Engineering team applying multivariate time-series and markov-based modeling approaches to predict stock market trends. 
 #### Prerequisites
