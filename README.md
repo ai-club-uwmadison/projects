@@ -12,7 +12,7 @@ Engineering team competing on Kaggle, an open platform for data science challeng
 
 **Slack channel:** engr-team-kaggle  
 **Group Leader:** Zhichun Huang  
-**Contact:** 
+**Contact:** @Eric Huang (Slack), zhuang294@wisc.edu
 
 
 
