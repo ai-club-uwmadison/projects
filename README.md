@@ -44,3 +44,10 @@ Experience with deep learning, reinforcement learning, and/or neuroscience is re
 **Group Leader:** Chris Endemann  
 **Contact:** @Chris Endemann (Slack), endemann@wisc.edu
 
+## Machine Learning
+Study group focusing around Andrew Ng's machine learning course on Coursera. The course material is completed on an independent basis, but the group meetings provide a space to ask questions and discuss the course insofar as the group has progressed in it. Meetings take place every weekend; the Slack channel will contain details about the time and location.
+
+**Slack channel:** study-ml  
+**Group Leader:** Soham Dasgupta 
+**Contact:** @Soham Dasgupta (Slack), dasgupta8@wisc.edu
+
