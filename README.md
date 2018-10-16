@@ -19,12 +19,17 @@ Engineering team competing on Kaggle, an open platform for data science challeng
 # Active Study Groups
 
 ## Tensorflow Learning Group
-Tensorflow was the most widely deep learning framework in 2018. Learn how to use this powerful library to better structure your deep learning projects! We will begin the semester by building simple models in raw tensorflow, and then work up to implementing more complex models using newer API's later in the semester. Join this group if you are interested in learning more about deep learning or want to gain practical skills related to AI!
-**Slack channel:** study-tensorflow
+Tensorflow was the most widely deep learning framework in 2018. Learn how to use this powerful library to better structure your deep learning projects! We will begin the semester by building simple models in raw tensorflow, and then work up to implementing more complex models using newer API's later in the semester. Join this group if you are interested in learning more about deep learning or want to gain practical skills related to AI!  
+**Slack channel:** study-tensorflow  
 **Group Leader:** Declan Campbell, Nick Comeau  
-**Contact:** @Declan (Slack), idcampbell@wisc.edu
+**Contact:** @Declan (Slack), idcampbell@wisc.edu  
 
-#### NONE
+## Machine Learning
+Study group focusing around Andrew Ng's machine learning course on Coursera. The course material is completed on an independent basis, but the group meetings provide a space to ask questions and discuss the course insofar as the group has progressed in it. Meetings take place every weekend; the Slack channel will contain details about the time and location.
+
+**Slack channel:** study-ml  
+**Group Leader:** Soham Dasgupta   
+**Contact:** @Soham Dasgupta (Slack), dasgupta8@wisc.edu  
 
 ## Neuro-Inspired Artificial General Intelligence
 The most exciting advancements in A.I. have been consistently inspired by biology. Therefore, it’s not too crazy to suggest that studying the brain might be the best hope we have of constraining new algorithms that come closer to approaching artificial general intelligence. To follow this premise, this study group's intent is to discuss the intersections between the fields of cognitive science, computational neuroscience, and artificial intelligence, as well as discuss what it means to achieve artificial general intelligence. We will primarily focus our learning materials on research papers, and are always looking for additional members willing to present papers throughout the semester (we are willing to suggest some options).
@@ -43,11 +48,4 @@ Experience with deep learning, reinforcement learning, and/or neuroscience is re
 **Slack channel:** study-neuro-agi  
 **Group Leader:** Chris Endemann  
 **Contact:** @Chris Endemann (Slack), endemann@wisc.edu
-
-## Machine Learning
-Study group focusing around Andrew Ng's machine learning course on Coursera. The course material is completed on an independent basis, but the group meetings provide a space to ask questions and discuss the course insofar as the group has progressed in it. Meetings take place every weekend; the Slack channel will contain details about the time and location.
-
-**Slack channel:** study-ml  
-**Group Leader:** Soham Dasgupta 
-**Contact:** @Soham Dasgupta (Slack), dasgupta8@wisc.edu
 
