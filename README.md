@@ -21,8 +21,8 @@ Engineering team analyzing skin images, especially for melanoma detection, segme
 **Group Leader:** [Dandi Chen](https://sites.google.com/view/dandic/home)  
 **Contact:** @Dandi Chen (Slack), dandi.chen@wisc.edu  
 
-## Learing Source Code Team
-Engineering team applying deep learning methods to source code related tasks. We will be focusing on predicting next revision by viewing code as a 2-D image. We are open to other tasks or ideas. Practical knowledge about neural networks, code analysis and programming language is preferred. Python will be mostly used. Please join us if you are interested in deep learning for code!
+## Learning Source Code Team
+Engineering team applying deep learning methods to source code related tasks. We will be focusing on predicting next revision by viewing code as a 2-D image. We are open to other tasks or ideas. Practical knowledge about neural networks, code analysis and programming language is preferred. Python will be mostly used for development. Please join us if you are interested in deep learning for code!
 
 **Slack channel:** engr-code-learning  
 **Group Leader:** [Jinman Zhao](http://pages.cs.wisc.edu/~jz/)  
