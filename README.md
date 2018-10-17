@@ -17,9 +17,9 @@ Engineering team competing on Kaggle, an open platform for data science challeng
 ## Skin Lesion Analysis Team
 Engineering team analyzing skin images, especially for melanoma detection, segmentation and classification. We focus on segmentation using deep learning techniques this semester. Please join us if you would like to try deep learning for computer vision applications!
 
-**Slack channel:** engr-miccai2018 
-**Group Leader:** [Dandi Chen](https://sites.google.com/view/dandic/home)
-**Contact:** @Dandi Chen (Slack), dandi.chen@wisc.edu
+**Slack channel:** engr-miccai2018  
+**Group Leader:** [Dandi Chen](https://sites.google.com/view/dandic/home)  
+**Contact:** @Dandi Chen (Slack), dandi.chen@wisc.edu  
 
 
 
