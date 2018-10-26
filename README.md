@@ -1,7 +1,7 @@
 # Active Engineering Teams
 
 ## Algorithmic Trading Team
-Engineering team applying multivariate time-series and markov-based modeling approaches to predict stock market trends. Anyone who wants to learn more about and apply these models (including deep learning and reinforcement learning implementations) is welcome to join so long as they have some background coding experience. The Slack channel for this team will soon be made private, so message the team leader--Chris Endemann--on Slack to request to join the team!  
+We (18 members and growing!) are an engineering team applying multivariate time-series and markov-based modeling approaches to predict stock market trends. Anyone who wants to learn more about and apply these models (including deep learning and reinforcement learning implementations) is welcome to join so long as they have some background coding experience. The Slack channel for this team will soon be made private, so message the team leader--Chris Endemann--on Slack to request to join the team!  
 
 **Slack channel:** engr-stocks  
 **Group Leader:** Chris Endemann  
