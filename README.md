@@ -33,7 +33,7 @@ This engineering team is dedicated to data mining science journals (including im
 
 **GitHub:** [scientific-journal-mining](https://github.com/ai-club-uwmadison/scientific-journal-mining)  
 **Slack channel:** engr-journal-mining  
-**Group Leader:** Andrew Leicht  
+**Group Leader:** [Andy Leicht](https://ai-club-uwmadison.github.io/roster/#engineering-manager-3)  
 **Contact:** @AL (Slack), asleicht@wisc.edu
 
 # Active Study Groups
