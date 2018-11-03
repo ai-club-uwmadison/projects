@@ -28,6 +28,13 @@ Engineering team applying deep learning methods to source code related tasks. We
 **Group Leader:** [Jinman Zhao](http://pages.cs.wisc.edu/~jz/)  
 **Contact:** @Jinman (Slack), jz@cs.wisc.edu 
 
+## Generalized Data Mining of Science Journals Team
+This engineering team is dedicated to data mining science journals (including images and figures) to distill vast data to a more simplified human understandable data-set/outline of accepted scientific facts based on a search query.
+
+**GitHub:** [scientific-journal-mining](https://github.com/ai-club-uwmadison/scientific-journal-mining)  
+**Slack channel:** engr-journal-mining  
+**Group Leader:** Andrew Leicht  
+**Contact:** @AL (Slack), asleicht@wisc.edu
 
 # Active Study Groups
 
