@@ -32,7 +32,7 @@ Engineering team applying deep learning methods to source code related tasks. We
 This engineering team is dedicated to data mining science journals (including images and figures) to distill vast data to a more simplified human understandable data-set/outline of accepted scientific facts based on a search query.
 
 **GitHub:** [scientific-journal-mining](https://github.com/ai-club-uwmadison/scientific-journal-mining)  
-**Slack channel:** engr-journal-mining  
+**Slack channel:** [engr-journal-mining](https://wisconsinai.slack.com/messages/CD3RFGV6K)  
 **Group Leader:** [Andy Leicht](https://ai-club-uwmadison.github.io/roster/#engineering-manager-3)  
 **Contact:** @AL (Slack), asleicht@wisc.edu
 
