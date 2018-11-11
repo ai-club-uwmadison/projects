@@ -36,6 +36,15 @@ This engineering team is dedicated to data mining science journals (including im
 **Group Leader:** [Andy Leicht](https://ai-club-uwmadison.github.io/roster/#engineering-manager-3)  
 **Contact:** @AL (Slack), asleicht@wisc.edu
 
+# 3rd-Party Engineering Opportunities 
+
+## Universal Makeup
+The makeup industry is booming every day, and the market keeps getting bigger and bigger. In the 21st century, we see that makeup has not just confined itself in its stereotypical ways of stating that it is only for women. Makeup has broadened its spectrum and is being used by everyone in the world, despite their gender and their financial background. It can be hard sometimes to find a foundation that matches one's skin color exactly, taking into factor their undertone, and skin type. Sometimes, some individuals like myself (who is more olive/tan toned) need to buy two foundations to match my exact skin tone. I want to create something using visual/image technology to create universal makeup! If you would be interested, please contact me at karjohnson@wisc.edu.   
+
+**Slack channel:** N/A  
+**Group Leader:** Renee Kar-Johnson  
+**Contact:** karjohnson@wisc.edu  
+
 # Active Study Groups
 
 ## Tensorflow Learning Group
