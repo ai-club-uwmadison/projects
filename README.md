@@ -5,7 +5,7 @@ This applied AI project's goal is to model stock market trends and create a deci
 
 **Group Leader:** Chris Endemann  
 **Contact:** @Chris Endemann (Slack), endemann@wisc.edu  
-**Slack channel:** Channel is private--message me on Slack for permission to join.
+**Slack channel:** Channel is private--message me on Slack to join.
 
 ## Kaggle Team
 Engineering team competing on Kaggle, an open platform for data science challenges. Workshops are held every weekend. Anyone who would like to challenge and improve their skills in real-world data science problems are welcomed to join us!
