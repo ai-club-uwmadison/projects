@@ -1,7 +1,7 @@
 # Active Engineering Teams
 
 ## Algorithmic Trading Team
-This applied AI project's goal is to model stock market trends and create a decision-making bot that leverages that info for automated trading. The project features opportunities to work on and learn more about data-mining, NLP, reinforcement learning, deep learning, and multivariate time-series forecasting using non-stationary variables. Anyone with some basic coding experience is welcome to join the team! If you're more experienced, I am actively seeking subgroup leaders for reinforcement learning and deep learning components of the project. 
+This applied AI project's goal is to model stock market trends and create a decision-making bot that leverages that info for automated trading. The project features opportunities to work on and learn more about data-mining, NLP, reinforcement learning, deep learning, and multivariate time-series forecasting using non-stationary variables. Anyone with some basic coding experience is welcome to join the team! If you're more experienced, I am actively seeking subgroup leaders for NLP, reinforcement learning and deep learning components of the project. 
 
 **Group Leader:** Chris Endemann  
 **Contact:** @Chris Endemann (Slack), endemann@wisc.edu  
@@ -64,7 +64,7 @@ Study group focusing around Andrew Ng's machine learning course on Coursera. The
 ## Neuro-Inspired Artificial General Intelligence
 The most exciting advancements in A.I. have been consistently inspired by biology. Therefore, it’s not too crazy to suggest that studying the brain might be the best hope we have of constraining new algorithms that come closer to approaching artificial general intelligence. To follow this premise, this study group's intent is to discuss the intersections between the fields of cognitive science, computational neuroscience, and artificial intelligence, as well as discuss what it means to achieve artificial general intelligence. We will primarily focus our learning materials on research papers, and are always looking for additional members willing to present papers throughout the semester (we are willing to suggest some options).
 
-A few concrete subtopics we’d like to touch on throughout the semester(s)…
+A few concrete subtopics we’d like to touch on throughout the semester(s)   
 - Origin and evolution of deep learning and reinforcement learning algorithms
 - Theories and evidence regarding how the brain updates its feature maps over time
 - How plastic is the neocortex at each level of the cortical hierarchy?
