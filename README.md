@@ -55,7 +55,7 @@ Tensorflow was the most widely deep learning framework in 2018. Learn how to use
 **Contact:** @Declan (Slack), idcampbell@wisc.edu  
 
 ## Machine Learning
-Study group focusing around Andrew Ng's machine learning course on Coursera. The course material is completed on an independent basis, but the group meetings provide a space to ask questions and discuss the course insofar as the group has progressed in it. Meetings take place every weekend; the Slack channel will contain details about the time and location.
+Study group focusing around Andrew Ng's deep learning specialization on Coursera. The course material is completed on an independent basis, but the group meetings provide a space to ask questions and discuss the course insofar as the group has progressed in it. Meetings take place every weekend; the Slack channel will contain details about the time and location. 
 
 **Group Leader:** Soham Dasgupta   
 **Slack channel:** study-ml  
