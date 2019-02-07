@@ -39,20 +39,13 @@ This engineering team is dedicated to data mining science journals (including im
 # 3rd-Party Engineering Opportunities 
 
 ## Universal Makeup
-The makeup industry is booming every day, and the market keeps getting bigger and bigger. In the 21st century, we see that makeup has not just confined itself in its stereotypical ways of stating that it is only for women. Makeup has broadened its spectrum and is being used by everyone in the world, despite their gender and their financial background. It can be hard sometimes to find a foundation that matches one's skin color exactly, taking into factor their undertone, and skin type. Sometimes, some individuals like myself (who is more olive/tan toned) need to buy two foundations to match my exact skin tone. I want to create something using visual/image technology to create universal makeup! If you would be interested, please contact me at karjohnson@wisc.edu.   
+The makeup industry is rapidly expanding, and the market keeps getting bigger. It can be hard sometimes to find a foundation that matches one's skin color exactly, taking into factor their undertone, and skin type. Sometimes people like myself with more olive/tan  skin tone need to buy two foundations to match my exact skin tone. I want to create something using computer vision technology to create better makeup that can be matched to any individuals skin tone! If you would be interested, please contact me at karjohnson@wisc.edu.   
 
 **Group Leader:** Renee Kar-Johnson  
 **Slack channel:** N/A  
 **Contact:** karjohnson@wisc.edu  
 
 # Active Study Groups
-
-## Tensorflow Learning Group
-Tensorflow was the most widely deep learning framework in 2018. Learn how to use this powerful library to better structure your deep learning projects! We will begin the semester by building simple models in raw tensorflow, and then work up to implementing more complex models using newer API's later in the semester. Join this group if you are interested in learning more about deep learning or want to gain practical skills related to AI!  
-
-**Group Leader:** Declan Campbell, Nick Comeau  
-**Slack channel:** study-tensorflow  
-**Contact:** @Declan (Slack), idcampbell@wisc.edu  
 
 ## Machine Learning
 Study group focusing around Andrew Ng's deep learning specialization on Coursera. The course material is completed on an independent basis, but the group meetings provide a space to ask questions and discuss the course insofar as the group has progressed in it. Meetings take place every weekend; the Slack channel will contain details about the time and location. 
